@@ -7,7 +7,7 @@
 </h3>
 
 <h1 align="center">Hi 👋, I'm Le Hoang An(Daenv)</h1>
-<h3 align="center">I am a Student majoring in Software engineering at Industrial University of Ho Chi Minh City.🌟</h3>
+<h3 align="center">I am a student majoring in Software Engineering at Industrial University of Ho Chi Minh City.🌟</h3>
 <h4 align="center">Thank You for taking the time to view my GitHub Profile :smile:</h4>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
