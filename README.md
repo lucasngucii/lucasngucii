@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Le Hoang An(Daenv)</h1>
-<h3 align="center">Student majoring in Software engineering at Ho Chi Minh City. Thank You for taking the time to view my GitHub Profile :smile: University of Industry🌟</h3>
-
+<h3 align="center">I am a Student majoring in Software engineering at of Industrial University of Ho Chi Minh City.🌟</h3>
+<h4 align="center">Thank You for taking the time to view my GitHub Profile :smile:</h4>
 - 🔭 I’m currently working on **freelance**
 
 - 🌱 I’m currently learning **Nextjs, AWS, Mysql**
