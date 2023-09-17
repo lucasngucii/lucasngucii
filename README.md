@@ -2,7 +2,7 @@
 
 <p><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=header" /></p>
   <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
-  Welcome to Daenv le's profile!
+  Welcome to Daenv's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -12,11 +12,11 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-- 🔭 I’m currently working on Typescript
 
-- 🌱 I’m currently learning **Nextjs, AWS, Mysql**
+- 🔭 I’m currently working on **Typescript**
+- 🌱 I’m currently learning **Nextjs, AWS, Mysql** 
 
-- - 🔭 I’m looking for a job Backend with Nodejs, Express; Frontend with Nextjs 
+-  🔭 I’m looking for a job **Backend** with **Nodejs, Expressjs**, and **Frontend** with **Nextjs** 
 
 - 👨‍💻 All of my projects are available at https://github.com/daenv?tab=repositories
 
@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://github.com/daenv">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daenv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daenv&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
