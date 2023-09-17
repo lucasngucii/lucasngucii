@@ -12,9 +12,11 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-- 🔭 I’m currently working on **freelance**
+- 🔭 I’m currently working on Typescript
 
 - 🌱 I’m currently learning **Nextjs, AWS, Mysql**
+
+- - 🔭 I’m looking for a job Backend with Nodejs, Express; Frontend with Nextjs 
 
 - 👨‍💻 All of my projects are available at https://github.com/daenv?tab=repositories
 
