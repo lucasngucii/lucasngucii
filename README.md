@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on **Typescript**
 
--  🔭 I’m looking for a job **Backend** with **Nodejs, Expressjs**, and **Frontend** with **Nextjs** 
+-  🔭 I’m looking for a job **Backend** with **Nodejs, Nestjs**, and **Frontend** with **Nextjs** 
 
-- 💬 Ask me about **Nodejs, Typescript, Expressjs, Mongodb**
+- 💬 Ask me about **Nodejs, Nextjs **
 
 - 📫 How to reach me **daenvle69@gmail.com**
   
