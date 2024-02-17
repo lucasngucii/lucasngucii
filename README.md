@@ -12,15 +12,12 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on **Typescript**
+- 🔭 I’m currently working on **BE**
 
--  🔭 I’m looking for a job **Backend** with **Nodejs, Nestjs**, and **Frontend** with **Nextjs** 
-
-- 💬 Ask me about **Nodejs, Nextjs **
+- 💬 Ask me about **Nest, Express**
 
 - 📫 How to reach me **daenvle69@gmail.com**
   
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daenv-le-480a2716b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daenv-le-480a2716b/" height="30" width="40" /></a>
