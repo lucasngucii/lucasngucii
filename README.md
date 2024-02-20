@@ -17,7 +17,7 @@
 - 💬 Ask me about **Nest, Express**
 
 - 📫 How to reach me **daenvle69@gmail.com**
--  My CV: <a href="https://drive.google.com/drive/u/0/home" >Resume</a>
+-  My CV: <a href="https://drive.google.com/file/d/10v_x_I-J8cTcI0SG6oKNny0W0e2g7DcH/view?usp=sharing" >Resume</a>
 
 
 <div align="center" style="display:block;">
