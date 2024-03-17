@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Nest, Express**
 
-- 📫 How to reach me **daenvle69@gmail.com**
+- 📫 How to reach me **lean09062@gmail.com**
 -  My CV: <a href="https://drive.google.com/file/d/1lCjPdxSCbypwdH3ZYIsowxZEvHqGkLcA/view?usp=drive_link" >Resume</a>
 
 
