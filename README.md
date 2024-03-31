@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **BE**
 
-- 💬 Ask me about **Nest, Express**
+- 💬 Ask me about **Nest, Express, Asp.Net**
 
 - 📫 How to reach me **lean09062@gmail.com**
 -  My CV: <a href="https://drive.google.com/file/d/1lCjPdxSCbypwdH3ZYIsowxZEvHqGkLcA/view?usp=drive_link" >Resume</a>
