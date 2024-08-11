@@ -2,7 +2,7 @@
 
 <p><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=header" /></p>
  
-  Welcome to Eric's profile!
+  Welcome to Lucas's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
