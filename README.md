@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<h1 align="center">Hi 👋, I'm Le Hoang An(lucas ale)</h1>
+<h1 align="center">Hi 👋, I'm Le Hoang An(Lucas Aleh)</h1>
 <h4 align="center">Thank You for taking the time to view my GitHub Profile :smile:</h4>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
