@@ -25,8 +25,8 @@
 
 <p align="center">
 <a href="https://github.com/lucasngucii">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasnguci&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasnguci&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasngucii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasngucii&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
