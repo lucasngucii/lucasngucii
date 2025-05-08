@@ -17,7 +17,7 @@
 - 💬 Ask me about **Nest, Express, Asp.Net**
 
 - 📫 How to reach me **lean09062@gmail.com**
--  My CV: <a href="https://drive.google.com/file/d/15QkBt2Bn44s6O-MGkTShQQPoT5rUxzGf/view?usp=sharing" >Resume</a>
+-  My CV: <a href="https://drive.google.com/file/d/1i25k1LFxQElV-5VqS9xjvoHfaLwXN5Z5/view?usp=drive_link" >Resume</a>
 
 
 <div align="center" style="display:block;">
