@@ -12,7 +12,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on **Back-end Develop**
+- 🔭 I’m currently working on **Back-end Developer**
 
 - 📫 How to reach me **lean09062@gmail.com**
 -  My CV: <a href="https://drive.google.com/file/d/1i25k1LFxQElV-5VqS9xjvoHfaLwXN5Z5/view?usp=drive_link" >Resume</a>
