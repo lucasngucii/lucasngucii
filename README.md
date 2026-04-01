@@ -12,10 +12,10 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on **Back-end Developer**
+- 🔭 I've spent 3.5 years at the intersection of backend engineering and system design — building the kind of infrastructure that quietly keeps things running when traffic spikes, data gets messy, or upstream providers go dark. Most recently, I architected a real-time data pipeline for Uniscore (1M+ users) and owned end-to-end backend design for LinkAdz, a multi-channel adtech platform processing high-volume campaign data in near real-time. My sweet spot: distributed systems, event-driven architecture, and the unglamorous work of making complex pipelines reliable at scale. I join early, think in systems, and care about the product beyond my own ticket.
 
 - 📫 How to reach me **lean09062@gmail.com**
--  My CV: <a href="https://drive.google.com/file/d/1v1weqtr4tVWhj-TcLgc9vqkPKswyBvzw/view?usp=drive_link" >Resume</a>
+-  My CV: <a href="https://drive.google.com/file/d/1YlzL3PkEEYn0Z7Ca0eY7St0kjd3jB5GA/view?usp=sharing" >Resume</a>
 
 
 <div align="center" style="display:block;">
