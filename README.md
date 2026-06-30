@@ -35,12 +35,12 @@ src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
 
 ## 👨‍💻 About Me
 
-I'm a **Fullstack Product Builder** with **3.5 years of experience** building scalable and reliable products—from backend architecture and real-time systems to complete user experiences.
+I'm a **Fullstack Product Builder** with **4 years of experience** building scalable and reliable products—from backend architecture and real-time systems to complete user experiences.
 
 Most recently, I:
 
-* Architected a real-time data pipeline for **Uniscore**, a platform serving more than **1 million users**.
 * Led the end-to-end backend design for **LinkAdz**, a multi-channel adtech platform processing high-volume campaign data in near real-time.
+* Architected a real-time data pipeline for **Uniscore**, a platform serving more than **1 million users**.
 * Built distributed, event-driven systems designed to remain reliable during traffic spikes, inconsistent data, and upstream service failures.
 
 My strengths include **distributed systems, event-driven architecture, backend engineering, system design, and real-time data pipelines**.
