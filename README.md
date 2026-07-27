@@ -26,11 +26,11 @@
 </p>
 
 <img
-align="right"
-height="280"
-width="380"
-alt="Coding animation"
-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+  align="right"
+  height="280"
+  width="380"
+  alt="Coding animation"
+  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
 />
 
 ## 👨‍💻 About Me
@@ -39,7 +39,7 @@ I'm a **Fullstack Product Builder** with **4 years of experience** building scal
 
 Most recently, I:
 
-* Led the end-to-end backend design for **LinkAdz**, a multi-channel adtech platform processing high-volume campaign data in near real-time.
+* Led the end-to-end backend design for **Limzy**, a multi-channel adtech platform processing high-volume campaign data in near real-time.
 * Architected a real-time data pipeline for **Uniscore**, a platform serving more than **1 million users**.
 * Built distributed, event-driven systems designed to remain reliable during traffic spikes, inconsistent data, and upstream service failures.
 
@@ -47,12 +47,29 @@ My strengths include **distributed systems, event-driven architecture, backend e
 
 I enjoy joining products at an early stage, thinking beyond individual tickets, and taking ownership of the product from technical design to real-world impact.
 
+<br clear="right"/>
+
+## 🛠️ Tech Stack
+
+`TypeScript` `JavaScript` `Python` `Go` · `Node.js` `NestJS` `Next.js`
+`PostgreSQL` `MongoDB` `Redis` `ClickHouse` `Elasticsearch`
+`Kafka` `RabbitMQ` `BullMQ` · `AWS` `Docker Swarm`
+`Microservices` `Event-Driven` `CQRS` `DDD` `Clean Architecture`
+
+## 🌱 Open Source
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Argus](https://github.com/lucasngucii/Argus)** | Local-first governance gate for AI coding agents. AST-based command classification, fail-closed, non-bypassable severity floor, local SQLite decision store. | `Go` `SQLite` |
+| **[face-detection](https://github.com/lucasngucii/face-detection)** | Real-time attention monitoring from facial landmarks — MTCNN + MediaPipe + ML. 92.1% accuracy at ~32 FPS. | `Python` `MediaPipe` `scikit-learn` |
+| **[clickhouse-owl](https://github.com/diepnghitinh/clickhouse-owl)** *(contributor)* | AI-powered admin UI for ClickHouse — tabbed SQL editor, NL→SQL, visual table builder. | `Next.js` `TypeScript` `ClickHouse` |
+
+> 🤝 Issues and PRs welcome — especially around distributed systems and architecture trade-offs.
+
 ## 📬 Contact
 
 * **Email:** [lean09062@gmail.com](mailto:lean09062@gmail.com)
 * **Resume:** [View my CV](https://drive.google.com/file/d/1YlzL3PkEEYn0Z7Ca0eY7St0kjd3jB5GA/view?usp=sharing)
-
-<br clear="right"/>
 
 ## ⚙️ GitHub Analytics
 
