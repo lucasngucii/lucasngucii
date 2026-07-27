@@ -2,7 +2,7 @@
 
 <p align="center">
   <sub>
-    <b>BACKEND ENGINEERING</b> &nbsp;&nbsp;<b>EVENT-DRIVEN SYSTEMS</b> &nbsp;&nbsp;<b>SYSTEM DESIGN</b>
+    <b>SOFTWARE ENGINEERING</b> &nbsp;&nbsp;<b>EVENT-DRIVEN SYSTEMS</b> &nbsp;&nbsp;<b>SYSTEM DESIGN</b>
   </sub>
 </p>
 
