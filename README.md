@@ -1,4 +1,4 @@
-<h1 align="center">Le Hoang An &nbsp;·&nbsp; Lucas</h1>
+<h1 align="center">Le Hoang An &nbsp;·&nbsp; Lucas Aleh</h1>
 
 <p align="center">
   <sub>
