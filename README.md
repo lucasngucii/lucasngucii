@@ -28,7 +28,7 @@
 
 ### What I've shipped
 
-- **LinkAdz** — led end-to-end backend design for a multi-channel adtech platform processing high-volume campaign data in near real-time.
+- **Limzy** — led end-to-end backend design for a multi-channel adtech platform processing high-volume campaign data in near real-time.
 - **Uniscore** — architected the real-time data pipeline behind a product serving **1M+ users**.
 - Built event-driven systems that hold up under traffic spikes, dirty upstream data, and third-party API failures.
 
