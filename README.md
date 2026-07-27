@@ -2,12 +2,12 @@
 
 <p align="center">
   <sub>
-    <b>DISTRIBUTED SYSTEMS</b> &nbsp;&nbsp;<b>EVENT-DRIVEN ARCHITECTURE</b> &nbsp;&nbsp;<b>REAL-TIME DATA PIPELINES</b>
+    <b>BACKEND ENGINEERING</b> &nbsp;&nbsp;<b>EVENT-DRIVEN SYSTEMS</b> &nbsp;&nbsp;<b>SYSTEM DESIGN</b>
   </sub>
 </p>
 
 <p align="center">
-  <i>Fullstack product builder. I design backends that stay up when the data doesn't cooperate.</i>
+  <i>Fullstack product builder. Mostly backend, mostly distributed systems.</i>
 </p>
 
 <p align="center">
@@ -20,120 +20,47 @@
 
 ---
 
-<h2 align="center">Open Source</h2>
+### About
 
-<p align="center">
-  <sub>WHAT I BUILD WHEN NOBODY ASSIGNS IT TO ME</sub>
-</p>
+Four years building products end to end — backend architecture, real-time pipelines, and the UI on top of them.
 
-<br />
+- **LinkAdz** — backend design for a multi-channel adtech platform handling campaign data in near real-time.
+- **Uniscore** — real-time data pipeline for a product serving around 1M users.
+- Comfortable with the messy parts: traffic spikes, unreliable upstream data, third-party API failures.
 
-<h3 align="center">
-  🛡️ &nbsp;<a href="https://github.com/lucasngucii/Argus">Argus</a>
-</h3>
-
-<p align="center">
-  <b>A local-first governance gate for AI coding agents.</b><br />
-  <sub>Every command an agent tries to run gets parsed, scored, and answered — <code>allow</code> / <code>ask</code> / <code>deny</code>.</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MIT-0D1117?style=flat-square" alt="MIT" />
-  <img src="https://img.shields.io/github/stars/lucasngucii/Argus?style=flat-square&color=0D1117&labelColor=0D1117" alt="Stars" />
-</p>
-
-```console
-$ argus explain 'X=rm; $X -rf /'
-
-  parsed argv     rm -rf /
-  obfuscation     variable indirection  →  escalated
-  matched rule    rm-recursive-root  (floor)
-  severity        high
-  verdict         deny
-  logged          ~/.argus/argus.db
-```
-
-Deny-lists pattern-match a raw string, then throw the answer away. Argus parses the command into a
-real AST — so `X=rm; $X -rf /` and `rm$IFS-rf$IFS/` collapse to the same `argv` — grades it on a
-four-level severity scale, and writes every decision to a local SQLite store you can query, explain,
-and replay against a candidate policy before you adopt it.
-
-> [!IMPORTANT]
-> Catastrophic commands are denied in **every** permission mode — including
-> `--dangerously-skip-permissions` — and no policy rule or allow-list entry can downgrade them.
-> On a parse error the gate escalates rather than letting the command through.
-
-<br />
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🧠 <a href="https://github.com/lucasngucii/face-detection">face-detection</a></h3>
-
-<p><b>Real-time attention monitoring from a plain webcam.</b> No headset, no eye tracker, no specialized hardware.</p>
-
-<p>MTCNN → MediaPipe landmarks → six geometric features → classifier, benchmarked across Random Forest, SVM, and an MLP.</p>
-
-<p><code>92.1% accuracy</code> &nbsp; <code>~32 FPS</code></p>
-
-<p>
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🦉 <a href="https://github.com/diepnghitinh/clickhouse-owl">clickhouse-owl</a></h3>
-
-<p><b>An admin console for ClickHouse that doesn't feel like 2011.</b> <sub>— contributor</sub></p>
-
-<p>Tabbed SQL editor with natural-language query generation, <code>EXPLAIN PLAN</code> visualization, and a visual table builder.</p>
-
-<p><code>Next.js 14</code> &nbsp; <code>Monaco</code> &nbsp; <code>Vercel AI SDK</code></p>
-
-<p>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/ClickHouse-0D1117?style=flat-square&logo=clickhouse&logoColor=white" alt="ClickHouse" />
-</p>
-
-</td>
-</tr>
-</table>
+I like joining products early and staying accountable for how they behave in production.
 
 ---
 
-<h2 align="center">At Work</h2>
+### Open Source
 
-<br />
+A few things I work on outside of client work.
 
-- **LinkAdz** — led end-to-end backend design for a multi-channel adtech platform processing high-volume campaign data in near real-time.
-- **Uniscore** — architected the real-time data pipeline behind a product serving **1M+ users**.
-- Built event-driven systems that hold up under traffic spikes, dirty upstream data, and third-party API failures.
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[Argus](https://github.com/lucasngucii/Argus)** <br /><sub>v0.1 · alpha</sub> | A local-first gate for AI coding agents. Parses each command into an AST, scores it by severity, and returns allow / ask / deny. Decisions are stored locally so they can be explained and replayed. | `Go` `SQLite` |
+| **[face-detection](https://github.com/lucasngucii/face-detection)** | Attention monitoring from a webcam — MTCNN for detection, MediaPipe landmarks, six geometric features, then a classifier. Around 92% accuracy at ~32 FPS. | `Python` `scikit-learn` |
+| **[clickhouse-owl](https://github.com/diepnghitinh/clickhouse-owl)** <br /><sub>contributor</sub> | Web admin console for ClickHouse — tabbed SQL editor, natural-language query generation, visual table builder. | `Next.js` `TypeScript` |
 
-**The shape I keep coming back to** — one path answers the user, the other one does the work.
+---
 
-```
- REQUEST PATH · synchronous, latency is the constraint
- ─────────────────────────────────────────────────────
-   browser  ─▶  Next.js  ─▶  NestJS  ─┬─▶  PostgreSQL     source of truth
-                                      └─▶  Redis          cache · sessions
+### End to End
 
+The layers I've owned on production systems, and what I reach for at each.
 
- EVENT PATH · asynchronous, durability is the constraint
- ─────────────────────────────────────────────────────
-   NestJS  ─▶  Kafka  ─┬─▶  Go ingester  ─▶  ClickHouse   analytics
-                       └─▶  BullMQ jobs  ─▶  Elasticsearch  search
-```
+| Layer | What that means in practice | Tools |
+| :--- | :--- | :--- |
+| **Product** | Scoping, tradeoffs, deciding what not to build yet | — |
+| **Interface** | App architecture, server components, state, design system | `Next.js` `TypeScript` |
+| **API** | Service boundaries, contracts, auth, versioning against third-party APIs | `NestJS` `Node.js` |
+| **Domain** | DDD modeling, CQRS, transactional consistency, migrations | `PostgreSQL` `Redis` `MongoDB` |
+| **Events** | Async workflows, retries, idempotency, outbox and saga patterns | `Kafka` `RabbitMQ` `BullMQ` |
+| **Analytics** | Ingestion, read models, search, ML on top of the pipeline | `Go` `ClickHouse` `Elasticsearch` `Python` |
+| **Operations** | Deploys, observability, on-call, incident response | `AWS` `Docker Swarm` |
 
 <sub>
-The write side stays boring and consistent. Read models are rebuilt from the event log, so a bad
-projection is a replay, not an outage. Services get extracted only where the scale profile actually
-differs — everything else stays a modular monolith.<br /><br />
-Also: <b>Python</b> (LightGBM / XGBoost) &nbsp;·&nbsp; <b>RabbitMQ</b> &nbsp;·&nbsp; <b>MongoDB</b> &nbsp;·&nbsp; <b>AWS</b> &nbsp;·&nbsp; <b>Docker Swarm</b>
+Read models are rebuilt from the event log, so a bad projection is a replay rather than an outage.
+Services get extracted only where the scale profile actually differs — the rest stays a modular monolith.
 </sub>
 
 ---
