@@ -24,7 +24,7 @@
 
 Four years building products end to end — backend architecture, real-time pipelines, and the UI on top of them.
 
-- **LinkAdz** — backend design for a multi-channel adtech platform handling campaign data in near real-time.
+- **Limzy** — backend design for a multi-channel adtech platform handling campaign data in near real-time.
 - **Uniscore** — real-time data pipeline for a product serving around 1M users.
 - Comfortable with the messy parts: traffic spikes, unreliable upstream data, third-party API failures.
 
