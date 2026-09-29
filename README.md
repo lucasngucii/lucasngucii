@@ -46,21 +46,6 @@ A few things I work on outside of client work.
 | **[clickhouse-owl](https://github.com/diepnghitinh/clickhouse-owl)** <br /><sub>contributor</sub> | Web admin console for ClickHouse — tabbed SQL editor, natural-language query generation, visual table builder. | `Next.js` `TypeScript` |
  
 ---
-
-### End to End
-
-The layers I've owned on production systems, and what I reach for at each.
-
-| Layer | What that means in practice | Tools |
-| :--- | :--- | :--- |
-| **Product** | Scoping, tradeoffs, deciding what not to build yet | — |
-| **Interface** | App architecture, server components, state, design system | `Next.js` `TypeScript` |
-| **API** | Service boundaries, contracts, auth, versioning against third-party APIs | `NestJS` `Node.js` |
-| **Domain** | DDD modeling, CQRS, transactional consistency, migrations | `PostgreSQL` `Redis` `MongoDB` |
-| **Events** | Async workflows, retries, idempotency, outbox and saga patterns | `Kafka` `RabbitMQ` `BullMQ` |
-| **Analytics** | Ingestion, read models, search, ML on top of the pipeline | `Go` `ClickHouse` `Elasticsearch` `Python` |
-| **Operations** | Deploys, observability, on-call, incident response | `AWS` `Docker Swarm` |
-
 <sub>
 Read models are rebuilt from the event log, so a bad projection is a replay rather than an outage.
 Services get extracted only where the scale profile actually differs — the rest stays a modular monolith.
