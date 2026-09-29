@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="mailto:lean09062@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/1YlzL3PkEEYn0Z7Ca0eY7St0kjd3jB5GA/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-0D1117?style=flat-square&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
+  <a href="https://drive.google.com/file/d/1ccQftLZ3eoqlUtQALotgxjlpl5pSkJ6T/view"><img src="https://img.shields.io/badge/Résumé-0D1117?style=flat-square&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
   <a href="https://github.com/lucasngucii?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
@@ -44,12 +44,6 @@ A few things I work on outside of client work.
 | **[product-hub](https://github.com/lucasngucii/product-hub)** <br /><sub>contributor</sub> | Product operating system for a team — roadmaps scored by RICE, OKRs that roll up on their own, self-generating cycles, and burn-up charts reconstructed from issue timestamps. Multi-tenant, and the workspace itself is an MCP server. | `NestJS` `MongoDB` `React` `TypeScript` |
 | **[face-detection](https://github.com/lucasngucii/face-detection)** | Attention monitoring from a webcam — MTCNN for detection, MediaPipe landmarks, six geometric features, then a classifier. Around 92% accuracy at ~32 FPS. | `Python` `scikit-learn` |
 | **[clickhouse-owl](https://github.com/diepnghitinh/clickhouse-owl)** <br /><sub>contributor</sub> | Web admin console for ClickHouse — tabbed SQL editor, natural-language query generation, visual table builder. | `Next.js` `TypeScript` |
- 
----
-<sub>
-Read models are rebuilt from the event log, so a bad projection is a replay rather than an outage.
-Services get extracted only where the scale profile actually differs — the rest stays a modular monolith.
-</sub>
 
 ---
 
